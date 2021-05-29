@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(blue,red,yellow);
+}
+.inventers{
+    font-size: larger;
+    margin-top: 250px;
+}
+.title{
+    font-size: xx-large;
+}
